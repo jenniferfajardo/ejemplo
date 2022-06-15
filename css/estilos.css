@@ -1,3 +1,12 @@
 body{
+    background-color: white;
+}
+
+.presentacion{
     background-color: blueviolet;
+    box-shadow: 3px 3px 3px #000000;
+    color: white;
+    width: 30%;
+    padding: 2rem;
+    margin: 5rem auto;
 }
